@@ -1,0 +1,22 @@
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\obj\Debug\PluginLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\bin\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\bin\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\bin\Debug\HuffmanData.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\obj\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginProject\PluginLibrary\obj\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\HuffmanData.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Debug\HuffmanData.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Debug\PluginLibrary.csproj.GenerateResource.Cache

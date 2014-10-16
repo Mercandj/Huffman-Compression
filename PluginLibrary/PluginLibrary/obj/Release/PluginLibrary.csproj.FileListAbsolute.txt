@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Release\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Release\PluginLibrary.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\bin\Release\HuffmanData.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Release\PluginLibrary.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Release\PluginLibrary.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Release\PluginLibrary.dll
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ESIEE Loader\Plugins\PluginLibrary\PluginLibrary\obj\Release\PluginLibrary.pdb
